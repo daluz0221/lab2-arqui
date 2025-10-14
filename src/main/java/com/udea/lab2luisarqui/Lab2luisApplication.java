@@ -1,4 +1,4 @@
-package com.udea.lab2luis;
+package com.udea.lab2luisarqui;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

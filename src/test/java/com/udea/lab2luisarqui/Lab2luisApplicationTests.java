@@ -1,4 +1,4 @@
-package com.udea.lab2luis;
+package com.udea.lab2luisarqui;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;

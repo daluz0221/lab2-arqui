@@ -1,3 +1,4 @@
+[![CI/CD Pipeline](https://github.com/daluz0221/lab2-arqui/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/daluz0221/lab2-arqui/actions/workflows/build.yml)
 # Implementation of a Simple App with the next operations:
 
 * Get random nations

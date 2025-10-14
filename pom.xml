@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.udea</groupId>
-	<artifactId>lab2luis</artifactId>
+	<artifactId>lab2luisarqui</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>lab2luis</name>
+	<name>lab2luisarqui</name>
 	<description>Demo project for Spring Boot</description>
 	
 	<properties>
